@@ -1,8 +1,14 @@
-- 👋 Hello! I'm Konstantin Kruchinin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ ### Hello! 
+My name is Konstantin Kruchinin, and I'm QA Engineer
+#### Some examples of my work:
+- App functionality mind map
+- Test cases
+- Bug reports
+#### My contacts:
+- email kruchininqa@gmail.com
+- tg @k_kruchinin
+- wa +79111998957
+
 
 <!---
 Kostianych89/Kostianych89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
